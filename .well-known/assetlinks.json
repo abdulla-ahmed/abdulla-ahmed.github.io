@@ -13,5 +13,13 @@
         "package_name": "io.github.abdulla_ahmed.ColonoscopyRH",
         "sha256_cert_fingerprints": ["E9:5F:CE:75:27:8E:2C:C6:C3:04:60:A6:8B:7A:F8:58:6E:01:E4:EB:45:C9:8C:63:04:C7:02:4D:A6:14:B1:44"]
       }
+    },
+      {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.abdulla_ahmed.ogdr",
+        "sha256_cert_fingerprints": ["88:51:F9:AF:10:E7:B6:BC:09:9C:E9:BA:C7:D7:97:9F:03:6D:52:62:FB:93:26:16:11:D8:66:B1:1C:F2:1B:A1"]
+      }
     }
 ]
