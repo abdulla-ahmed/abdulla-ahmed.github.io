@@ -28,6 +28,13 @@
         "namespace": "android_app",
         "package_name": "io.github.abdulla_ahmed.ColonoscopyAM",
         "sha256_cert_fingerprints": ["8F:D7:46:36:16:89:B4:B9:6A:37:E3:0A:05:CA:72:42:7B:76:78:2F:CB:8F:AE:E9:9C:E9:D9:A9:E4:10:5B:49"]
+      },
+      {
+       "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.abdulla_ahmed.Prescription",
+        "sha256_cert_fingerprints": ["5F:AB:CA:29:2A:A1:3F:61:DC:C4:40:7F:7A:09:E4:E6:BB:EB:7B:6C:CC:37:C9:93:0C:5C:C2:66:3E:8A:EA:C1"]
       }
 }
 ]
